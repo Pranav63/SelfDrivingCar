@@ -1,11 +1,13 @@
 # SelfDrivingCar
 
 ## Running the simulation:
-To run the program run python SearchAgent.py <config_file_name>
+```python SearchAgent.py <config_file_name>```
 For example python SearchAgent.py dynamic_config1.txt
+
 On the gui your car is the white color car.
 
-There are 5 example config files provided for your testing. dynamic_config<number>.txt is the config file which contains the starting location of your car and the number and the starting location of other cars on the road. Your assignment will be evaluated against a different set of config files.
+##### There are 5 example config files provided for your testing. 
+##### dynamic_config<number>.txt is the config file which contains the starting location of your car and the number and the starting location of other cars on the road. Your assignment will be evaluated against a different set of config files.
 ====================================================================================
 We describe the simulator in which you have to write the code. There are 5 files provided.
 1. Simulator.py -contains the code for the gui. 
